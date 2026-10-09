@@ -12,4 +12,6 @@ operators using the Ureticy charging management platform.
 
 ## Official Website
 
-[Ureticy — OCPP Software](https://ureticy.com/en/)
+[OCPP Software](https://ureticy.com/en/)
+
+[OCPP Yazılımı](https://ureticy.com/tr/)
